@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@wokwi/elements": "^1.4.9",
+    "avr8js": "^0.20.1"
+  }
+}
